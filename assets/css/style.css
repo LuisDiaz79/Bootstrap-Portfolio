@@ -142,3 +142,12 @@ button:active{
     clear: both;
 }
   
+@media only screen and (max-width: 680px){
+    .image-subcontainer{
+        float: none;
+        margin: auto;
+    }
+    .mainphoto{
+        width: 100%;
+    }
+}
